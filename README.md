@@ -1,6 +1,6 @@
 # PI_DCMotor_SpeedController_Modelling
 
-L'objectif de se projet est de dimensionner un système d'asservissement en vitesse (régulation de la consigne)pour Moteur DC ( et équivalent BLDC). 
+L'objectif de ce projet est de dimensionner un système d'asservissement en vitesse (régulation de la consigne)pour Moteur DC ( et équivalent BLDC). 
 
 Les fonctions de transferts ont été calculés sur le logiciel WxMaxima : 
 http://wxmaxima-developers.github.io/wxmaxima/
